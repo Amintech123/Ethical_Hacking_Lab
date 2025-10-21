@@ -1,3 +1,6 @@
+<img width="1366" height="654" alt="VirtualBox_Kali Linux_21_10_2025_17_59_07" src="https://github.com/user-attachments/assets/c33ab9b5-6af7-4611-b4c0-187b0f638dc6" />
+<img width="1366" height="654" alt="VirtualBox_Kali Linux_21_10_2025_17_58_36" src="https://github.com/user-attachments/assets/ed5b6599-8a1a-4ec5-b239-cd961ca1b303" />
+<img width="1366" height="654" alt="VirtualBox_Kali Linux_21_10_2025_17_58_04" src="https://github.com/user-attachments/assets/42735040-bdb8-4f3a-b468-8bb769e011c2" />
 # GitHub.com Domain Information Summary
 
 ## Overview
