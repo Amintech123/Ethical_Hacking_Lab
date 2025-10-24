@@ -114,9 +114,12 @@ nmap -sV --version-intensity 5 -p 80,443 172.217.18.238
 
 ## Example short report text<img width="1366" height="654" alt="VirtualBox_Kali Linux_22_10_2025_18_01_21" src="https://github.com/user-attachments/assets/aee1e13a-60ea-4be1-b3ea-7ecfbab64943" />
 
-![Uploading VirtualBox_Kali Linux_22_10_2025_18_02_13.png…]()
+<img width="1366" height="654" alt="VirtualBox_Kali Linux_22_10_2025_18_02_13" src="https://github.com/user-attachments/assets/bb59c3ee-fa4d-4a03-b913-edf8cd192aac" />
 
 > `google.com` resolves to `172.217.18.238`. ICMP shows 0% packet loss with variable/high latency (avg RTT ≈ 213 ms). Nmap shows TCP ports **80** and **443** open; both returned `tcpwrapped`, indicating edge infrastructure (CDN/WAF/load-balancer) is handling probes. 998 TCP ports reported as filtered. No application banners or software versions were exposed in the provided scans; therefore no explicit vulnerabilities can be confirmed from these outputs. Recommend passive TLS and header checks and, if authorized, a controlled TLS and web application assessment.
+![Uploading VirtualBox_Kali Linux_22_10_2025_18_02_13.png…]()
+<img width="1366" height="654" alt="VirtualBox_Kali Linux_22_10_2025_18_01_57" src="https://github.com/user-attachments/assets/cb86e3f2-ab9c-4be8-838a-4c88b1011f70" />
+<img width="1366" height="654" alt="VirtualBox_Kali Linux_22_10_2025_18_01_21" src="https://github.com/user-attachments/assets/1edddbfe-5d78-4115-b683-62f864775fe0" />
 
 ---
 
